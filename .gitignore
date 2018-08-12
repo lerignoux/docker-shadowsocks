@@ -1,4 +1,1 @@
-gcr-registry/docker-entrypoint.sh
-gcr-registry/registry/*.json
-goflyway/goflyway
-mritd/vippasswd
+config
